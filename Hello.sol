@@ -5,4 +5,3 @@ contract HelloWorld {
         return 'Hello Contracts';
     }
 }
-// xxxx
